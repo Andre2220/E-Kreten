@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#FF0000</color>
-    <color name="colorPrimaryDark">#AA0000</color>
-    <color name="colorAccent">#AAA000</color>
+    <color name="colorPrimary">#FF0000</color> <!--Az alkalmazás fejléce, Sandwich bar-on kiválasztott menüpont betűszíne-->
+    <color name="colorPrimaryDark">#AA0000</color> <!--Értesítési sáv színe amikor az app nyitva van-->
+    <color name="colorAccent">#CCCCCC</color> <!--Sandwich bar-on kiválasztott menüpont báttere-->
 </resources>
